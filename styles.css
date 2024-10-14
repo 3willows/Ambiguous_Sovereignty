@@ -4,6 +4,7 @@
 body {
   font-family: Arial, sans-serif;
   margin: 20px;
+  font-size: 20px;
   transition: background-color 0.3s ease;
 }
 
@@ -23,7 +24,7 @@ h2 {
 }
 
 .c-article-section__content p {
-  font-size: 16px;
+  font-size: 20px;
   line-height: 1.5;
   transition: color 0.3s ease;
 }
@@ -79,7 +80,7 @@ body {
   }
 
   a:hover {
-    color: #3e8e41;
+    color: #d50c13;
   }
 
  .back-to-toc {
@@ -99,7 +100,8 @@ body {
   }
 
  .c-article-section__content p {
-    font-size: 14px;
+    font-size: 20px;
+    margin: 20px;
   }
 }
 
@@ -114,6 +116,6 @@ body {
   }
 
  .c-article-section__content p {
-    font-size: 12px;
+    font-size: 20px;
   }
 }
